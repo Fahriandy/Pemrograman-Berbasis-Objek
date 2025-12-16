@@ -14,4 +14,4 @@ Proyek ini mendemonstrasikan implementasi prinsip SOLID (SRP, OCP, DIP) pada sis
    python refactor_solid.py
 
 ## Log Perubahan
-Kode dikelola menggunakan Git untuk mencatat riwayat perubahan dan kolaborasi.
+Kode dikelola menggunakan Git untuk mencatat riwayat perubahan dan kolaborasi. 
